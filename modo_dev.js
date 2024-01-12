@@ -1,4 +1,8 @@
 
+/**
+ * @author @luciodarcon
+ */
+
 Java.perform(function() {
 
     var settingSecure = Java.use("android.provider.Settings$Secure")
